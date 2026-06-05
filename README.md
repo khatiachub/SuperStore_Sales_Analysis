@@ -31,3 +31,14 @@ MoM Customer Growth: LAG() ფუნქციით განისაზღვ�
 Line & Area Charts: მოძრავი საშუალოს და კუმულაციური გაყიდვების დინამიკისთვის.
 Slicers: ფილტრები RFM სეგმენტების, რეგიონებისა და პროდუქტის იერარქიების მიხედვით.
 Leaderboards: ქვეკატეგორიის საშუალოზე მაღალი გაყიდვების მქონე პროდუქტების რეიტინგი.
+<img width="872" height="495" alt="1" src="https://github.com/user-attachments/assets/5f2eba5c-e940-4e2b-9597-bd65ec3f7a03" />
+<img width="876" height="490" alt="2" src="https://github.com/user-attachments/assets/e31dd4cf-9cdb-495d-abc5-908036cddcab" />
+<img width="876" height="490" alt="3" src="https://github.com/user-attachments/assets/c8a07021-2583-419d-a834-afeb8b3ea2a6" />
+<img width="878" height="493" alt="4" src="https://github.com/user-attachments/assets/89dc9174-3560-42ba-95e8-94dd293c9cf5" />
+<img width="872" height="488" alt="5" src="https://github.com/user-attachments/assets/e8a73f12-21fa-43d8-9c4b-1aa5d0769c85" />
+<img width="875" height="490" alt="6" src="https://github.com/user-attachments/assets/4062b9e6-f301-444f-883d-6565c5e7f983" />
+<img width="875" height="486" alt="7" src="https://github.com/user-attachments/assets/10f5f5c4-ad5e-41c6-93fa-221a9fa12e65" />
+<img width="875" height="487" alt="8" src="https://github.com/user-attachments/assets/d0d4e8c2-2e5e-49d3-8f9a-5dd78d283434" />
+<img width="875" height="488" alt="9" src="https://github.com/user-attachments/assets/442a25ed-127d-4240-8101-e2de9b5ded8c" />
+
+
